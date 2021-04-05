@@ -37,6 +37,7 @@ function mergeStrings(s1, s2) {
       if (!firstKeyS2Map) {
         return [s1Map, firstKeyS1Map];
       }
+
       return s1Map[firstKeyS1Map] > s2Map[firstKeyS2Map]
         ? [s2Map, firstKeyS2Map]
         : s1Map[firstKeyS1Map] < s2Map[firstKeyS2Map]
