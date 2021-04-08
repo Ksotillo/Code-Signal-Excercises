@@ -9,5 +9,7 @@ The current list of exercise solved are:
  - [Bounded Ratio](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/boundedRatio/boundedRatio.js)
  - [Hash Map](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/hashMap/hashMap.js)
  - [Mean Groups](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/meanGroups/meanGroups.js)
-
+ - [Count Ways to Split](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/countWaysToSplit/countWaysToSplit.js)
+ - [Sort Matrix By Occurrences](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/sortMatrixByOccurrences/sortMatrixByOccurrences.js)
+ - [Subarrays Count By Sum](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/subarraysCountBySum/subarraysCountBySum.js)
  
