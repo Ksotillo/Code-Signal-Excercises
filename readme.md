@@ -12,4 +12,11 @@ The current list of exercise solved are:
  - [Count Ways to Split](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/countWaysToSplit/countWaysToSplit.js)
  - [Sort Matrix By Occurrences](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/sortMatrixByOccurrences/sortMatrixByOccurrences.js)
  - [Subarrays Count By Sum](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/subarraysCountBySum/subarraysCountBySum.js)
+ - [Adjacent Elements Product](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/adjacentElementsProduct/adjacentElementsProduct.js)
+ - [Almost Increasing Sequence](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/almostIncresingSequence/almostIncresingSequence.js)
+ - [Century From Year](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/centuryFromYear/centuryFromYear.js)
+ - [Check Palindrome](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/checkPalindrome/checkPalindrome.js)
+ - [Make Array Consecutive 2](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/makeArrayConsecutive2/makeArrayConsecutive2.js)
+ - [Matrix Elements Sum](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/matrixElementsSum/matrixElementsSum.js)
+ - [Shape Area](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/shapeArea/shapeArea.js)
  
