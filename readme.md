@@ -19,4 +19,6 @@ The current list of exercise solved are:
  - [Make Array Consecutive 2](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/makeArrayConsecutive2/makeArrayConsecutive2.js)
  - [Matrix Elements Sum](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/matrixElementsSum/matrixElementsSum.js)
  - [Shape Area](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/shapeArea/shapeArea.js)
+ - [Is ZigZag](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/isZigZag/isZigZag.js)
+ - [Binary Pattern Matching](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/binaryPatternMatching/binaryPatternMatching.js)
  
