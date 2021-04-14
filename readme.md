@@ -21,4 +21,8 @@ The current list of exercise solved are:
  - [Shape Area](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/shapeArea/shapeArea.js)
  - [Is ZigZag](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/isZigZag/isZigZag.js)
  - [Binary Pattern Matching](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/binaryPatternMatching/binaryPatternMatching.js)
- 
+ - [All Longest Strings](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/allLongestStrings/allLongestStrings.js)
+ - [Common Character Count](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/commonCharacterCount/commonCharacterCount.js)
+ - [Is Lucky](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/isLucky/isLucky.js)
+ - [Sort by Height](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/sortByHeight/sortByHeight.js)
+
