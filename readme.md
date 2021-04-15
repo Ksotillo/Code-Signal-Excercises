@@ -25,4 +25,11 @@ The current list of exercise solved are:
  - [Common Character Count](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/commonCharacterCount/commonCharacterCount.js)
  - [Is Lucky](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/isLucky/isLucky.js)
  - [Sort by Height](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/sortByHeight/sortByHeight.js)
+ - [Reverse in Parentheses](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/reverseInParentheses/reverseInParentheses.js)
+ - [Alternating Sums](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/alternatingSums/alternatingSums.js)
+ - [Add Border](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/addBorder/addBorder.js)
+ - [Are Similar?](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/areSimilar/areSimilar.js)
+ - [Array Change](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/arrayChange/arrayChange.js)
+ - [Palindrome Rearranging](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/palindromeRearranging/palindromeRearranging.js)
+ - [Are Equally Strong](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/areEquallyStrong/areEquallyStrong.js)
 
