@@ -1,6 +1,6 @@
 # Code Signal Exercises
 
-Here are the answers in JS for some exercises that I've been doing in [Code Signal](https://app.codesignal.com/) for an interview
+Here are the answers in JS and Python for some exercises that I've been doing in [Code Signal](https://app.codesignal.com/) for an interview
 
 The current list of exercise solved are:
 
@@ -32,4 +32,8 @@ The current list of exercise solved are:
  - [Array Change](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/arrayChange/arrayChange.js)
  - [Palindrome Rearranging](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/palindromeRearranging/palindromeRearranging.js)
  - [Are Equally Strong](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/areEquallyStrong/areEquallyStrong.js)
+ - [Array Maximal Adjacent Difference](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/arrayMaximalAdjacentDifference/arrayMaximalAdjacentDifference.js)
+ - [Avoid Obstacles](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/avoidObstables/avoidObstables.js)
+ - [Sums Divisible by K](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/sumsDivisibleByK/sumsDivisibleByK.py)
+ - [Palindrome Cutting](https://github.com/Ksotillo/Code-Signal-Excercises/blob/master/exercises/palindromeCutting/palindromeCutting.py)
 
